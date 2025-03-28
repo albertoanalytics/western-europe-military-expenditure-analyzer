@@ -158,7 +158,7 @@ This notebook is designed to work with the Stockholm International Peace Researc
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](https://github.com/albertoanalytics/western-europe-military-expenditure-analyzer/blob/master/LICENSE.txt)
 
 ---
 
