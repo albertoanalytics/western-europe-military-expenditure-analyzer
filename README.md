@@ -10,14 +10,14 @@ This Google Colab notebook provides a comprehensive analysis of military spendin
 
 ```
 western-europe-military-expenditure-analyzer/
-├── README.md                                  				# Project documentation
-├── LICENSE                                    				# MIT License file
-├── west_europe_military_expenditure_analyzer.ipynb 			# Main Google Colab notebook
+├── README.md                                  			# Project documentation
+├── LICENSE                                    			# MIT License file
+├── west_europe_military_expenditure_analyzer.ipynb 		# Main Google Colab notebook
 ├── data/
-│   ├── raw/                                   				# Directory for original SIPRI data files
-│   │   └── SIPRI-Milex-data-1993-2024.xlsx    				# Original data file (to be uploaded)
-│   └── processed/                             				# Directory for processed data files
-│       └── SIPRI-Milex-data-1993-2024_western_europe_clean.csv 	# Processed data output
+│   ├── raw/                                   			# Directory for original SIPRI data files
+│   │   └── SIPRI-Milex-data-1993-2024.xlsx    			# Original data file (to be uploaded)
+│   └── processed/                             			# Directory for processed data files
+│       └── SIPRI-Milex-data-1993-2024_western_europe_clean.csv # Processed data output
 ```
 
 ## Notebook Structure
